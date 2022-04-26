@@ -5,7 +5,7 @@ export default function Results(props) {
     <section >
       <div className='divi'>
         <p>Method: {props.method}</p>
-        <p> {props.url}</p>
+        <p> URL: {props.url}</p>
       </div>
       <div className="box">
         < pre > {props.data ? JSON.stringify(props.data, 100, 2) : null}</pre>
