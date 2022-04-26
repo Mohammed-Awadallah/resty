@@ -11,5 +11,6 @@ Practicing on creating a react app that handles api requests
 
 
 ## Links
-[PR for base branch](https://github.com/Mohammed-Awadallah/resty/pull/2)
-[PR for state branch](https://github.com/Mohammed-Awadallah/resty/pull/5)
+* [github pages]()
+* [PR for base branch](https://github.com/Mohammed-Awadallah/resty/pull/2)
+* [PR for state branch](https://github.com/Mohammed-Awadallah/resty/pull/5)
