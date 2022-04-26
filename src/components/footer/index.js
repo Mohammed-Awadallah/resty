@@ -5,7 +5,7 @@ export default function Footer() {
     <>
       <div className="footer">
         <hr/>
-        <footer>Mohammed Awadallah &copy; 2022</footer>
+        <footer>Mohammed Awadallah &copy; ASAC 2022</footer>
       </div>
     </>
   );

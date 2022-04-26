@@ -1,12 +1,15 @@
 import React from 'react';
 import './results.scss';
-
 export default function Results(props) {
   return (
-    <section>
-      <div className="box">
-        <pre>{props.data ? JSON.stringify(props.data, undefined, 2) : null}</pre>
+    <section >
+      <div className='divi'>
+        <p>Method: {props.method}</p>
+        <p> {props.url}</p>
       </div>
-    </section>
+      <div className="box">
+        < pre > {props.data ? JSON.stringify(props.data, 100, 2) : null}</pre>
+      </div>
+    </section >
   );
 }
