@@ -23,9 +23,11 @@ export default function App() {
   return (
     <React.Fragment>
       <Header />
+      <div className='body'>
       <Form handleApiCall={handleApiCall} />
       <Results data={data} 
         url={requestParams.url} method={requestParams.method} />
+        </div>
       <Footer />
 
     </React.Fragment>

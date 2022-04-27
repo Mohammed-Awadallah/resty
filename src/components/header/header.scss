@@ -3,6 +3,10 @@ $backgroundColor: rgba(0, 0, 0, 0.863);
 
 .header {
     background: $backgroundColor;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
     
     
     .navBar{
