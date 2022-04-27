@@ -13,7 +13,6 @@ export default function App() {
     setRequest(requestParams);
     let methodCall = requestParams.method.toLowerCase();
     const response = await axios[methodCall](requestParams.url, (requestParams.body) ? (requestParams.body) : null);
-  
     const result = {
       
       results: response.data
