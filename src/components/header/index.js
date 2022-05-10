@@ -10,7 +10,7 @@ export default function Header() {
       </header>
       <nav className='navBar' >
         <ul>
-          <li><a href='/home'>Home</a></li>
+          <li><a href='/'>Home</a></li>
           <li><a href='/history'>History</a></li>
           <li><a href='https://github.com/Mohammed-Awadallah/resty'>Github Repo</a></li>
         </ul>

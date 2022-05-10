@@ -71,7 +71,7 @@ export default function App() {
     <Router>
       <Header />
       <Routes>
-      <Route exact path="/home" element = {  <><div className='body'>
+      <Route exact path="/" element = {  <><div className='body'>
       <Form handleApiCall={handleApiCall} />
       <Results data={data} 
         url={requestParams.url} method={requestParams.method} />

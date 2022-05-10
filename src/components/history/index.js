@@ -4,7 +4,8 @@ import { Container } from 'react-bootstrap';
 
 export default function History(props) {
     const [flag, setflag] = useState(false);
-
+    
+          console.log(props.histories);
     return (
 
         
