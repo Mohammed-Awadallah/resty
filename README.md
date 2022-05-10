@@ -12,6 +12,6 @@ Practicing on creating a react app that handles api requests
 
 ## Links
 
-[netlify](https://62690d8d9757280009946d39--harmonious-cheesecake-cf6539.netlify.app/)
-[PR for base branch](https://github.com/Mohammed-Awadallah/resty/pull/2)
-[PR for state branch](https://github.com/Mohammed-Awadallah/resty/pull/5)
+* [netlify](https://62690d8d9757280009946d39--harmonious-cheesecake-cf6539.netlify.app/)
+* [PR for base branch](https://github.com/Mohammed-Awadallah/resty/pull/2)
+* [PR for state branch](https://github.com/Mohammed-Awadallah/resty/pull/5)
